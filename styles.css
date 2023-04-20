@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+.navbar{
+	background-color:#6e072d;
+	display:flex;
+}
+.navbar ul{
+	display:flex;
+	text-decoration:none;
+	list-style-type: none;
+	
+}
+.navbar ul a{
+	text-decoration:none;
+	font-size:18px;
+	border : 2px solid white;
+	height:100%;
+	/*padding: 18px 18vh 18px 18vh ;*/
+}
