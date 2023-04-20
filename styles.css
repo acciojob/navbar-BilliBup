@@ -21,3 +21,6 @@
 	border : 2px solid white;
 	padding: 18px 27px 18px 27px ;
 }
+li{
+	cursor:pointer;
+}
